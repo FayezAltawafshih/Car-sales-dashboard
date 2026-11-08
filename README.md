@@ -43,4 +43,4 @@ The dataset covers **30 car brands**, **28 dealerships**, and **7 regions**. The
 Microsoft Excel · Power Query · Pivot Tables · Pivot Charts · Slicers
 
 ## 👤 Author
-**Your Name** · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Fayiz Al-Tawafha** · [LinkedIn]("www.linkedin.com/in/fayizaltawafshih")
